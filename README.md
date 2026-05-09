@@ -8,10 +8,10 @@ Focused on Android customization, ReVanced CLI workflows, and lightweight develo
 
 # 💫 About Me
 
-🔭 Working on Android patching and release automation
-🌱 Learning Android internals and robotics engineering
-👯 Interested in open-source collaboration
-💬 Ask me about ReVanced CLI and APK workflows
+🔭 Working on Android patching and ReVanced CLI workflows
+🌱 Learning Robotics & Automation Engineering and Android internals
+👯 Interested in open-source collaboration and developer tooling
+💬 Ask me about Android modding, APK workflows, and GitHub automation
 ⚡ Prefer lightweight CLI workflows over heavy GUI tools
 
 ---
@@ -31,19 +31,28 @@ Focused on Android customization, ReVanced CLI workflows, and lightweight develo
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=4rjunKM\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=4rjunKM\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=4rjunKM\&theme=dark\&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=4rjunKM\&theme=dark\&hide_border=true\&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=4rjunKM\&theme=dark\&hide_border=true\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=4rjunKM\&theme=default\&no-frame=true\&no-bg=true\&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
 ---
 
