@@ -2,43 +2,17 @@
 
 ### Robotics & Automation Engineering Student
 
-Focused on Android customization, CLI-based workflows, and reproducible software distribution.
+Focused on Android customization, ReVanced CLI workflows, and lightweight developer tooling.
 
 ---
 
 # 💫 About Me
 
-🔭 Currently building and maintaining
-
-* ReVanced CLI automation workflows
-* Android patching and release pipelines
-* Lightweight open-source tooling projects
-
-👯 Open to collaborating on
-
-* Android customization projects
-* Open-source automation tools
-* Developer-oriented utilities and workflows
-
-🌱 Currently exploring
-
-* Android internals and patching ecosystems
-* Release automation and CI workflows
-* Robotics & Automation Engineering
-
-💬 Ask me about
-
-* ReVanced CLI workflows
-* GitHub release automation
-* Android APK patching
-* Lightweight developer tooling
-
-⚡ Interests
-
-* Reproducible software distribution
-* Command-line tooling
-* Open-source Android ecosystems
-* Minimal and efficient developer workflows
+🔭 Working on Android patching and release automation
+🌱 Learning Android internals and robotics engineering
+👯 Interested in open-source collaboration
+💬 Ask me about ReVanced CLI and APK workflows
+⚡ Prefer lightweight CLI workflows over heavy GUI tools
 
 ---
 
@@ -70,18 +44,6 @@ Focused on Android customization, CLI-based workflows, and reproducible software
 ![](https://streak-stats.demolab.com/?user=4rjunKM\&theme=dark\&hide_border=true)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=4rjunKM\&theme=dark\&hide_border=true\&layout=compact)
-
----
-
-# 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=4rjunKM\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=8)
-
----
-
-# ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
 
 ---
 
