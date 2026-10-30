@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D4FF,100:7B2FF7&height=220&section=header&text=ARJUN%20K%20M&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Robotics%20%26%20Automation%20Engineer-in-the-making&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FF7&height=220&section=header&text=ARJUN%20K%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20Automation%20Student&descAlignY=60&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+robots+that+see+and+move;%F0%9F%A6%BE+Gesture+controlled+arms+with+OpenCV+%2B+ESP32;%F0%9F%8F%A0+IoT+systems+that+think+for+themselves;%F0%9F%A6%BF+Simulating+hybrid+wheel-legged+rovers;%E2%9A%99%EF%B8%8F+Turning+ideas+into+working+hardware" alt="Typing SVG" />
 
@@ -121,18 +121,6 @@ print(me.currently())
 
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4rjunKM/4rjunKM/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4rjunKM/4rjunKM/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/4rjunKM/4rjunKM/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -153,6 +141,6 @@ print(me.currently())
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%A4%9D+Open+to+collaborating+on+robotics%2C+IoT+and+automation;%E2%AD%90+Drop+a+star+if+you+like+what+you+see" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FF7&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FF7&height=120&section=footer" width="100%" />
 
 </div>
