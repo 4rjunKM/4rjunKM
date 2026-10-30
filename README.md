@@ -1,35 +1,55 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arjun+K+M+%F0%9F%91%8B;B.Tech+Robotics+%26+Automation+Student;Building+with+ROS%2C+ESP32+%26+OpenCV" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00D4FF,100:7B2FF7&height=220&section=header&text=ARJUN%20K%20M&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Robotics%20%26%20Automation%20Engineer-in-the-making&descAlignY=60&descSize=18" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+robots+that+see+and+move;%F0%9F%A6%BE+Gesture+controlled+arms+with+OpenCV+%2B+ESP32;%F0%9F%8F%A0+IoT+systems+that+think+for+themselves;%F0%9F%A6%BF+Simulating+hybrid+wheel-legged+rovers;%E2%9A%99%EF%B8%8F+Turning+ideas+into+working+hardware" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Toc_H_Institute_(KTU)-2023--2027-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based_in-Kerala%2C_India-FF9933?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=4rjunKM&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" />
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/arjunkm2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:km.arjun145@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=4rjunKM&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" />
 </p>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech student in **Robotics and Automation** focused on robotics, IoT and automation. I like building practical systems that connect **hardware, software and computer vision**: from ESP32-controlled mechanisms to ROS-based simulations.
+```python
+class Arjun:
+    def __init__(self):
+        self.role      = "B.Tech Robotics & Automation Student"
+        self.college   = "Toc H Institute of Science and Technology (KTU)"
+        self.location  = "Kerala, India"
+        self.languages = ["C", "Python"]
+        self.tools     = ["ROS", "OpenCV", "ESP32", "Arduino", "Webots", "Fusion 360"]
+        self.industry  = "Automation internship at Aptiv (June 2026)"
+
+    def currently(self):
+        return "Learning ROS, robot simulation & embedded systems 🚀"
+
+me = Arjun()
+print(me.currently())
+```
 
 - 🔭 Learning: ROS, robot simulation, embedded systems
 - 🛠️ Building: gesture-controlled and IoT-based robotic systems
-- 🏭 Industry exposure: automation internship at **Aptiv** (June 2026)
 - 🚗 Interested in: robotics, vehicle engineering, automation
 - 📫 Reach me: [km.arjun145@gmail.com](mailto:km.arjun145@gmail.com)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
 
 ## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=7B2FF7&center=true&vCenter=true&width=600&lines=Languages+%E2%86%92+Robotics+%E2%86%92+Embedded+%E2%86%92+CAD+%E2%86%92+Simulation" />
 
 **Languages**
 
@@ -62,7 +82,9 @@ I'm a B.Tech student in **Robotics and Automation** focused on robotics, IoT and
 ![FluidSIM](https://img.shields.io/badge/FluidSIM-555555?style=for-the-badge)
 ![PLC](https://img.shields.io/badge/PLC_%26_HMI-WPLSoft-333333?style=for-the-badge)
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -76,7 +98,7 @@ I'm a B.Tech student in **Robotics and Automation** focused on robotics, IoT and
 
 <!-- Tip: add a link to each project's repo, e.g. **[IoT Home Automation System](https://github.com/4rjunKM/your-repo)** -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
 
 ## 🏭 Experience & Training
 
@@ -86,7 +108,7 @@ I'm a B.Tech student in **Robotics and Automation** focused on robotics, IoT and
 - **Embedded Systems & IoT Training**, Srishti Robotics
 - **NASA Space Apps Challenge 2024** participant
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3" width="100%" />
 
 ## 📊 GitHub Stats
 
@@ -99,12 +121,38 @@ I'm a B.Tech student in **Robotics and Automation** focused on robotics, IoT and
 
 </div>
 
----
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### 🤝 Open to collaborating on robotics, IoT and automation projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4rjunKM/4rjunKM/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4rjunKM/4rjunKM/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/4rjunKM/4rjunKM/output/github-snake-dark.svg" />
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4rjunKM&bg_color=0D1117&color=00D4FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=4rjunKM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%A4%9D+Open+to+collaborating+on+robotics%2C+IoT+and+automation;%E2%AD%90+Drop+a+star+if+you+like+what+you+see" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FF7&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
