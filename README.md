@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FF7&height=220&section=header&text=ARJUN%20K%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20Automation%20Student&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ARJUN%20K%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Robotics%20and%20Automation%20Student&descAlignY=58&descSize=18" width="100%" alt="Arjun K M" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+Building+robots+that+see+and+move;%F0%9F%A6%BE+Gesture+controlled+arms+with+OpenCV+%2B+ESP32;%F0%9F%8F%A0+IoT+systems+that+think+for+themselves;%F0%9F%A6%BF+Simulating+hybrid+wheel-legged+rovers;%E2%9A%99%EF%B8%8F+Turning+ideas+into+working+hardware" alt="Typing SVG" />
+<a href="https://github.com/4rjunKM"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Building+robots+that+see+and+move;Gesture+controlled+arms+with+OpenCV+and+ESP32;IoT+systems+that+think+for+themselves;Simulating+hybrid+wheel-legged+rovers" alt="Typing animation" /></a>
 
 <p>
   <img src="https://img.shields.io/badge/Toc_H_Institute_(KTU)-2023--2027-0A66C2?style=for-the-badge" />
@@ -49,7 +49,7 @@ print(me.currently())
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=7B2FF7&center=true&vCenter=true&width=600&lines=Languages+%E2%86%92+Robotics+%E2%86%92+Embedded+%E2%86%92+CAD+%E2%86%92+Simulation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=7B2FF7&center=true&vCenter=true&width=600&height=30&lines=Languages+-+Robotics+-+Embedded+-+CAD+-+Simulation" alt="stack" />
 
 **Languages**
 
@@ -139,8 +139,8 @@ print(me.currently())
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%A4%9D+Open+to+collaborating+on+robotics%2C+IoT+and+automation;%E2%AD%90+Drop+a+star+if+you+like+what+you+see" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=Open+to+collaborating+on+robotics%2C+IoT+and+automation;Drop+a+star+if+you+like+what+you+see" alt="closing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7B2FF7&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
