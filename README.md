@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ARJUN%20K%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Robotics%20and%20Automation%20Student&descAlignY=58&descSize=18" width="100%" alt="Arjun K M" />
 
-<a href="https://github.com/4rjunKM"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Building+robots+that+see+and+move;Gesture+controlled+arms+with+OpenCV+and+ESP32;IoT+systems+that+think+for+themselves;Simulating+hybrid+wheel-legged+rovers" alt="Typing animation" /></a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false&quoteColor=00D4FF" width="70%" alt="Random quote" />
 
 <p>
   <img src="https://img.shields.io/badge/Toc_H_Institute_(KTU)-2023--2027-0A66C2?style=for-the-badge" />
