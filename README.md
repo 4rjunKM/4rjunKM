@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=ARJUN%20K%20M&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Robotics%20and%20Automation%20Student&descAlignY=58&descSize=18" width="100%" alt="Arjun K M" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false&quoteColor=00D4FF" width="70%" alt="Random quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=Welcome+to+my+GitHub+profile;Robotics+%7C+Automation+%7C+IoT;Learning%2C+building+and+improving+every+day;Let's+build+something+together" alt="Typing animation" />
 
 <p>
   <img src="https://img.shields.io/badge/Toc_H_Institute_(KTU)-2023--2027-0A66C2?style=for-the-badge" />
@@ -48,8 +48,6 @@ print(me.currently())
 ## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=500&color=7B2FF7&center=true&vCenter=true&width=600&height=30&lines=Languages+-+Robotics+-+Embedded+-+CAD+-+Simulation" alt="stack" />
 
 **Languages**
 
@@ -114,26 +112,13 @@ print(me.currently())
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=4rjunKM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rjunKM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rjunKM&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4rjunKM&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4rjunKM&bg_color=0D1117&color=00D4FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=4rjunKM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+<p>
+  <a href="https://github.com/4rjunKM?tab=followers"><img src="https://img.shields.io/github/followers/4rjunKM?style=for-the-badge&logo=github&color=0A66C2" /></a>
+  <a href="https://github.com/4rjunKM?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-13-7B2FF7?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/4rjunKM?tab=stars"><img src="https://img.shields.io/badge/Starred_Repos-66-FF9933?style=for-the-badge&logo=github" /></a>
+</p>
 
 </div>
 
